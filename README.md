@@ -7,7 +7,7 @@
   </a>
 
   <p align="center">
-    Calcule quando você irá ganhar no CSGOEmpire ou no Rollbit em determinado tempo.
+  <b>Calcule quando você irá ganhar no CSGOEmpire ou no Rollbit em determinado tempo.</b>
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
