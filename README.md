@@ -46,9 +46,10 @@ Você pode usar o propio <a href="https://mzl1337.github.io/">site</a>, ou fazer
 
 
 <!-- CONTACT -->
-## Contact
+## Contato
 
 Gabriel - [@mzl1337](https://twitter.com/mzl1337) - mzlcs2k@gmail.com
+Bruno - [@Bruno137BR](https://twitter.com/Bruno137BR) - MasterGamerxxx1337@gmail.com
 
 Link do projeto: [https://github.com/mzl1337/CalculadorProfit](https://github.com/mzl1337/CalculadorProfit)
 
