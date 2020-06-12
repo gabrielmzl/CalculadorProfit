@@ -6,10 +6,8 @@
     <img src="https://i.imgur.com/F8NsFsW.png" alt="Logo" width="50%">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
-
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    Calcule quando você irá ganhar no CSGOEmpire ou no Rollbit em determinado tempo.
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
