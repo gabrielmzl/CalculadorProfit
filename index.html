@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JohnPitterTV - Calculador de PROFIT!</title>
+
+    <link rel="stylesheet" href="public/assets/css/style.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
+</head>
+<body>
+
+    <nav class="navbar navbar-expand-lg">
+        <div class="container">
+            <a class="navbar-brand" href="#"> <span><img src="public/assets/images/john.png" alt=""></span> JohnPitterTV - Calculador de PROFIT!</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+      
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav ml-auto">
+            <li class="nav-item">
+              <button class="twitch">entrar com twitch</button>
+            </li>
+          </ul>
+        </div>
+        </div>
+      </nav>
+
+        <div class="container">
+          <div class="calcular">
+              <div class="row">
+                <div class="col-md-6">
+                  <p>Digite o valor que você quer começar a investir.</p>
+                  <input type="number" id="init_price" placeholder="Valor inicial">
+                </div>
+                <div class="col-md-6">
+                  <p>Digite a quantidade de dias que você vai investir.</p>
+                  <input type="number" id="days" placeholder="Dias">
+                </div>
+                <div class="col-md-12">
+                  <p class="custom">Digite a porcentagem que você ira usar.</p>
+                  <input type="number" id="m" placeholder="Porcentagem"><br>
+                    <input type="button" value="finalizar" id="btn" class="btn-continuar">
+                    <h2 id="res"></h2>
+                </div>
+              </div>
+
+              <div id="div_btn">
+
+              </div>
+
+              <div id="div_table">
+          
+              </div>
+          
+          
+              
+          
+            </div>
+        </div>
+
+
+        
+
+    <script src="public/assets/js/profit.js"></script>
+</body>
+</html>
