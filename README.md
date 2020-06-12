@@ -35,7 +35,7 @@
 <!-- ABOUT THE PROJECT -->
 ## Sobre o projeto
 
-[![Calculador de profit][https://i.imgur.com/3HruntZ.png]](https://mzl1337.github.io/)
+[!][Calculador de profit][https://i.imgur.com/3HruntZ.png]](https://mzl1337.github.io/)
 
 There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need.
 
