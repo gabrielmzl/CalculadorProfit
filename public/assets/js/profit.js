@@ -12,6 +12,9 @@ BOTAO_FINALIZAR.onclick = function(){
     const INIT_PRICE = document.getElementById('init_price').value;
     const DAYS = document.getElementById('days').value;
     var porcentagem = document.getElementById('m').value, porcentagem1 = porcentagem;
+    if(INIT_PRICE ==''|| DAYS ==''|| porcentagem == ''){
+            
+        }else{
     price = parseInt(INIT_PRICE);
    tabela = `<table class="table color3">
             <thead>
@@ -102,5 +105,7 @@ BOTAO_FINALIZAR.onclick = function(){
     TABELA_COMPLETA.onclick = function(){
         div.innerHTML = '<br>'+tabela;
     }
+
+}
 
 }
