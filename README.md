@@ -12,11 +12,11 @@
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://gmzl.space/calculador">💻 Demo Web</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/mzl1337/CalculadorProfit/issues">Reportar Bugs</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/mzl1337/CalculadorProfit/issues">Request Feature</a>
   </p>
 </p>
 
