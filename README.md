@@ -12,7 +12,7 @@
     <a href="https://github.com/mzl1337/CalculadorProfit"><strong>Explore os arquivos »</strong></a>
     <br />
     <br />
-    <a href="https://gmzl.space/calculador">💻 Demo Web</a>
+    <a href="https://mzl1337.github.io/">💻 Demo Web</a>
     ·
     <a href="https://github.com/mzl1337/CalculadorProfit/issues">Reportar Bugs</a>
     ·
@@ -25,24 +25,17 @@
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
-* [About the Project](#about-the-project)
-  * [Built With](#built-with)
-* [Getting Started](#getting-started)
-  * [Prerequisites](#prerequisites)
-  * [Installation](#installation)
-* [Usage](#usage)
-* [Roadmap](#roadmap)
-* [Contributing](#contributing)
-* [License](#license)
+* [Sobre o projeto](#sobre-o-projeto)
+  * [Linguagem usada](#linguagem-usada)
+* [Como utilizar](#como-utilizar)
 * [Contact](#contact)
-* [Acknowledgements](#acknowledgements)
 
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## Sobre o projeto
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Calculador de profit][https://i.imgur.com/3HruntZ.png]](https://mzl1337.github.io/)
 
 There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need.
 
