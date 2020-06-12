@@ -9,14 +9,14 @@
   <p align="center">
   <b>Calcule quando você irá ganhar no CSGOEmpire ou no Rollbit em determinado tempo.</b>
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/mzl1337/CalculadorProfit"><strong>Explore os arquivos »</strong></a>
     <br />
     <br />
     <a href="https://gmzl.space/calculador">💻 Demo Web</a>
     ·
     <a href="https://github.com/mzl1337/CalculadorProfit/issues">Reportar Bugs</a>
     ·
-    <a href="https://github.com/mzl1337/CalculadorProfit/issues">Request Feature</a>
+    <a href="https://github.com/mzl1337/CalculadorProfit/issues">Solicitar Recursos</a>
   </p>
 </p>
 
