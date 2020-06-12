@@ -31,8 +31,10 @@ BOTAO_FINALIZAR.onclick = function(){
     
    if(porcentagem < 10){      
     porcentagem = `0.0${porcentagem}`
-    } else if(porcentagem >= 10){
+    } else if(porcentagem >= 10 && porcentagem<100){
         porcentagem = `0.${porcentagem}`
+    } else if(porcentagem >= 100){
+        porcentagem = porcentagem/100;
     }
 
     while(count<DAYS){
