@@ -36,7 +36,7 @@
 
 ![Calculador de profit](https://i.imgur.com/3HruntZ.png])
 
-O calculador de profit é um projeto feito para traders do CSGOEmpire ou Rollbit. Com esse projeto você consegue calcular o seu profit colocando o seu valor inicial, quantas semanas você vai investir (já que tem o tradelock de 7 dias) e a porcentagem utilizada na venda dos itens. Tambem oferecemos uma tabela completa para você.
+O calculador de profit é um projeto feito para traders do CSGOEmpire ou Rollbit. Com esse projeto você consegue calcular o seu profit colocando o seu valor inicial, quantos dias você vai investir (já que tem o tradelock de 7 dias) e a porcentagem utilizada na venda dos itens. Tambem oferecemos uma tabela completa para você.
 
 
 <!-- GETTING STARTED -->
