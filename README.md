@@ -23,7 +23,7 @@
 
 
 <!-- TABLE OF CONTENTS -->
-## Table of Contents
+## Índice
 
 * [Sobre o projeto](#sobre-o-projeto)
 * [Como utilizar](#como-utilizar)
