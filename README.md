@@ -12,7 +12,7 @@
     <a href="https://github.com/mzl1337/CalculadorProfit"><strong>Explore os arquivos »</strong></a>
     <br />
     <br />
-    <a href="https://mzl1337.github.io/">💻 Demo Web</a>
+    <a href="https://mzl1337.github.io/">Demo Web</a>
     ·
     <a href="https://github.com/mzl1337/CalculadorProfit/issues">Reportar Bugs</a>
     ·
